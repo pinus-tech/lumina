@@ -5,8 +5,13 @@ module.exports = {
   },
   after: {
     'Introduction': ['after/introduction'],
-    'Before Departure': [
+    'Housing Options':[
       'after/housing',
+      'after/residential-colleges',
+      'after/halls',
+      'after/pgp',
+    ],
+    'Before Departure': [
       'after/photo',
       'after/registration1',
       'after/student-pass',
