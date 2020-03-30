@@ -17,7 +17,6 @@ We want to say **THANKS** to our amazing contributors!
 - Tembusu: Iona Tanan
 - USP/Cinnamon College: Aldrich
 
-
 and to all coordinating PINUS Committee members: 
 
 Aldrich, Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila

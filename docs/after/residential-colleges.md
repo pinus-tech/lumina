@@ -3,6 +3,7 @@ id: residential-colleges
 title: Residential Colleges
 ---
 
+
 Residential Colleges are a great way to stay in your first 2 years in NUS. Find out why below!
 
 ### Why residential colleges?
@@ -24,6 +25,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Find 
 :::
 
 ### General comparison
+
 <table>
   <thead>
     <tr>
@@ -173,6 +175,7 @@ More info on [college life](http://www.usp.nus.edu.sg/life-at-usp/overview/) or 
 - Other countries: Indonesia, Malaysia, Vietnam, India, Korea, not-so-many PRCs, exchange students.
 
 #### CCA/Interest Groups (IG)
+
 - University Scholars Club 
 - USP Polymaths : an open platform featuring a series of 26.667 minutes Pecha Kucha talks on diverse topics
 - Gender Collective : the group seeks to draw together people of all genders and sexual identities, for discussion about gender and sexuality and how they intersect with other modes of living, learning in a safe space
@@ -244,6 +247,7 @@ Know more about [Tembusu culture](https://tembusu.nus.edu.sg/college-life) and [
 - **Lifestyle**: tCoders (programming), Tembusu Coffeehouse, IG2 (strategic board games: mahjong, chess, contract bridge, etc.), tKaraoke, Polity (public policy and current affairs), tRecess (relaxation), Strategos (financial knowledge), Tembusu Tabletops (board and card games), Urban Gardeners, tStudios (photography, videography, design), etc
 
 More info about [interest groups](https://tembusu.nus.edu.sg/college-life/interest-groups) here!
+
 
 #### Events
 - Tembusu Forum
